@@ -9,7 +9,7 @@ PROJECTILE_VELOCITY: number = -25
 
 # Global variables
 hero_sprite: Sprite = None
-
+enemy_image: Image = assets.image("""coin""")
 # Functions
 def calculate_score(food: Sprite):
     # Calculate distance between two sprites (Pythagorean theorem).
@@ -21,7 +21,6 @@ def calculate_score(food: Sprite):
 
 # Simplified version
 def create_enemies(rows: number, columns: number):
-    enemy_image: Image = assets.image("""coin""")
     x: number = (screen.width - enemy_image.width * columns) / 2
     y: number = enemy_image.height / 2
     # Instead of looping here, call the enhanced version.

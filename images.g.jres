@@ -1,27 +1,34 @@
 {
-    "image1": {
+    "myImages.image1": {
+        "id": "myImages.image1",
         "data": "hwQQABAAAAAAAAAAAAAA7gAAAAAAAODuAAAAAAAA7u4AAAAAAADv7gAAAAAA4O/uAAAAAADsL+4AAAAA7kwsIszMz+9OTEwi3b1PT1VCQkQAAAAAIlJCRAAAAAAAIk9EAAAAAAAgX0UAAAAAAABCVAAAAAAAACJEAAAAAAAAICIAAAAAAAAAIg==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "hero"
     },
-    "image2": {
+    "myImages.image2": {
+        "id": "myImages.image2",
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAAAAAFQlAAAAAAAAVCUAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "projectile"
     },
-    "image3": {
+    "myImages.image3": {
+        "id": "myImages.image3",
         "data": "hwQIAAgAAAAAu8wAsFXVD1s90/1bUxX9W1MV/Vsd0f2wVd0PALvMAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "coin"
     },
-    "image4": {
+    "myImages.image4": {
+        "id": "myImages.image4",
         "data": "hwQQABAAAAAAAMDMzAwAAADA7O7u7gIAAOzu7u7uLgAA7u4iIuLuAuDuLiIiIuIC4O4iIiIiIi7g7i4iIiIiLs7MLCIiIiLkfGcsIiIiIuR37iIiIiIi5ODiRCIiIkLi4CJVJCIiQg4ALlQkIiIkDgAuIiIiROIAAOAuIiLiDgAAAODu7g4AAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "apple"
-    },
-    "*": {
-        "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64",
-        "namespace": "myImages"
     }
 }
