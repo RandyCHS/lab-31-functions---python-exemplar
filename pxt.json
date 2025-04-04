@@ -1,0 +1,31 @@
+{
+    "name": "Lab 3.1: Functions - Python (exemplar)",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.20",
+        "tag": "v1.8.20",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/dd914bb70406150e2d737c738b763f1145833e1b",
+        "target": "2.0.46",
+        "pxt": "7.4.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
